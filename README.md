@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛒 Campus Marketplace
 
-# Run and deploy your AI Studio app
+A web-based platform designed for students to buy, sell, and exchange items within their college campus.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/8a73abeb-197b-4dd8-863d-38b40ed46d35
+## 🚀 Features
 
-## Run Locally
+- 🔐 User Authentication (Login & Signup)
+- 📦 Post Items for Sale
+- 🔍 Browse and Search Listings
+- ❤️ Save Favorite Items
+- 📄 View Item Details
+- ✏️ Edit or Delete Your Listings
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Frontend: React + Vite + TypeScript
+- Backend: Node.js
+- Database: SQLite
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/heythenmozhi/CampusMarketplace.git
